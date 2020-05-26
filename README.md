@@ -22,3 +22,5 @@
 - NXThemes
 # Errores conosidos 
 - No te inicie el hack y sete quede en una pantalla con un error
+# APOYAME
+# PATREON
